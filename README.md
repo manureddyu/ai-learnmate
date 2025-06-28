@@ -1,3 +1,4 @@
+
 ![image alt](https://github.com/manureddyu/ai-learnmate/blob/834942f9ac487ba3286979aa597507019cc95218/Screenshot%202025-06-28%20193301.png)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
