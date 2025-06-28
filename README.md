@@ -1,10 +1,4 @@
 
-
-
-https://github.com/manureddyu/ai-learnmate/blob/46610fdcb4dbd3b36d75dcc842015940dc9e6029/Screenshot%202025-06-28%20193301.png
-
-
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
