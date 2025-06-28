@@ -34,3 +34,59 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+# 📘 AI LearnMate
+
+**AI LearnMate** is a personalized AI-powered learning assistant built during the REVA University AI Product Show Hackathon 2025. It empowers students to study smarter through instant topic explanations, quizzes, flashcards, and learning analytics — using voice, text, or PDF input.
+
+---
+
+## 🚀 Live Demo
+
+🔗 [https://ai-learnmate.vercel.app](https://ai-learnmate.vercel.app)
+
+---
+
+## 🎯 Features
+
+- 💡 **Explain Topics** with Beginner, Intermediate, and Advanced difficulty levels
+- 🧠 **Generate Quizzes** automatically based on your input or uploaded PDFs
+- 🎯 **Create Flashcards** for revision in a gamified format
+- 🎤 **Voice Input** via Web Speech API
+- 📄 **Upload PDFs** and get AI responses/quiz/flashcards from the content
+- 📈 **Track Learning Streaks** and see interaction history
+- 🌗 **Dark Mode Toggle**
+- 📥 **Download Responses as PDF**
+- 🎉 **Confetti Celebrations** for milestones
+
+---
+
+## 🧪 Try These:
+
+- **Type:** "Explain me about Machine Learning at a beginner level"
+- **Upload PDF:** Your notes and select Quiz or Flashcard mode
+- **Use Voice:** Click 🎤 "Speak" and ask your topic aloud
+
+---
+
+## 🛠 Tech Stack
+
+| Layer        | Technology         |
+|--------------|--------------------|
+| Frontend     | [Next.js](https://nextjs.org/) (React) |
+| AI Backend   | [Groq API](https://console.groq.com)   |
+| Voice Input  | Web Speech API     |
+| PDF Export   | jsPDF              |
+| File Upload  | FileReader API     |
+| UI FX        | canvas-confetti    |
+| Deployment   | Vercel             |
+
+---
+
+## 📂 Environment Setup
+
+Create a `.env.local` file at the root:
+
+
