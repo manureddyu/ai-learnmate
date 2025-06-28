@@ -2,6 +2,7 @@
 ![image alt](https://github.com/manureddyu/ai-learnmate/blob/834942f9ac487ba3286979aa597507019cc95218/Screenshot%202025-06-28%20193301.png)
 ![image alt](https://github.com/manureddyu/ai-learnmate/blob/65605f1fa79af76688d53047eb3cf2b3892deb0b/Screenshot%202025-06-28%20193319.png)
 ![image alt](https://github.com/manureddyu/ai-learnmate/blob/3f1af69734535c5d0f137051c3099ba9eeba78ff/Screenshot%202025-06-28%20193341.png)
+![image alt](https://github.com/manureddyu/ai-learnmate/blob/abc9ad53ac6dcdbf984ff8ae99d12ce1d3c27314/Screenshot%202025-06-28%20193401.png)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
